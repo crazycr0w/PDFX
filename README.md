@@ -27,7 +27,7 @@ To use this application, you need the following:
 3. Navigate to the repository's directory.
 
 ## Usage
-Run the `pdf_encrypter_decrypter.py` script to launch the GUI application.
+Run the `PDFX.py` script to launch the GUI application.
 
 1. **Encrypt PDF File**:
 - Click the "Browse" button to select the PDF file you want to encrypt.
